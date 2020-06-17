@@ -1,13 +1,20 @@
 # ECOLETA
-<p>Projeto  WEB E MOBILE para cadastro de pontos de coleta.</p>
+<img src="/web/src/assets/logo.svg" alt="My cool logo"/>
+
 
 ![Home alt text](https://user-images.githubusercontent.com/42146091/84846673-abc03380-b025-11ea-993d-ec0f74bfdc15.JPG)
 
-## Next Level Week - Rocketseat
+
+<h2>
+![Home alt text](https://github.githubassets.com/images/icons/emoji/unicode/1f680.png) <p>Next Level Week - Rocketseat</p>
+</h2>
+
+### Projeto
+<p>Cadastro de pontos de coletas de resíduos. Ajudar as pessoas a encontrarem os pontos de coleta de forma eficiente.</p>
 
 ### Tecnologias Utilizadas
 <ul>
-    <li>Node>.Js</li>
+    <li>Node.Js</li>
     <li>TypeScrit</li>
     <li>React</li>
     <li>React Native</li>
@@ -56,8 +63,8 @@
 <p>npm install multer</p>
 <p>npm isntall react-dropzone</p>
 <p>npm install celebrate</p>
-expo install expo-mail-composer
-expo install expo-location  
+<p>expo install expo-mail-composer</p>
+<p>expo install expo-location</p>  
 
 
 
