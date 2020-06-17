@@ -1,13 +1,8 @@
-# ECOLETA
-<img src="/web/src/assets/logo.svg" alt="My cool logo"/>
-
+<img src="/web/src/assets/logo.svg" alt="logo" align="center"/>
 
 ![Home alt text](https://user-images.githubusercontent.com/42146091/84846673-abc03380-b025-11ea-993d-ec0f74bfdc15.JPG)
 
-
-<h2>
-![Home alt text](https://github.githubassets.com/images/icons/emoji/unicode/1f680.png) <p>Next Level Week - Rocketseat</p>
-</h2>
+### Next Level Week - Rocketseat
 
 ### Projeto
 <p>Cadastro de pontos de coletas de resíduos. Ajudar as pessoas a encontrarem os pontos de coleta de forma eficiente.</p>
