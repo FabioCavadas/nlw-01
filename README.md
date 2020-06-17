@@ -1,11 +1,13 @@
-<h1 align:center><img src="/web/src/assets/logo.svg" alt="logo"/></h1>
+<img src="/web/src/assets/logo.svg" alt="logo" width="800" height="600" style="display: block; margin: 0 auto" />
 
-<h1 align:center><img src="https://user-images.githubusercontent.com/42146091/84846673-abc03380-b025-11ea-993d-ec0f74bfdc15.JPG" alt="home"/></h1>
+<p>![Home alt text](https://user-images.githubusercontent.com/42146091/84846673-abc03380-b025-11ea-993d-ec0f74bfdc15.JPG)</p>
+
 
 <h2><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji> Next Level Week #1 - Rocketseat</h2>
 
 <h3><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Projeto</h>
-<p>Cadastro de pontos de coletas de resíduos. Ajudar as pessoas a encontrarem os pontos de coleta de forma eficiente.</p>
+
+<p>O Ecoleta é um aplicativo web e mobile, para cadastro de pontos de coletas de resíduos. Desenvolvido para ajudar as pessoas a encontrarem os pontos de coleta de forma eficiente.</p>
 
 <h3><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji> Tecnologias Utilizadas</h2>
 <ul>
@@ -71,7 +73,7 @@
 <p>expo install expo-mail-composer</p>
 <p>expo install expo-location</p> 
 
-<h2><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Licença</h2>
+<h3><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Licença</h2>
 <p>Este projeto esta sobe a licença MIT.</p>
 <p>Feito com <g-emoji class="g-emoji" alias="heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png">❤️</g-emoji> por Fábio Cavadas. <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji></p>
 
