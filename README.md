@@ -1,13 +1,13 @@
-<h1 style="text-align:center"><img src="/web/src/assets/logo.svg" alt="logo"/></h1>
+<h1 align:center><img src="/web/src/assets/logo.svg" alt="logo"/></h1>
 
-<h1 style="text-align:center">[Home alt text](https://user-images.githubusercontent.com/42146091/84846673-abc03380-b025-11ea-993d-ec0f74bfdc15.JPG)</h1>
+<h1 align:center><img src="https://user-images.githubusercontent.com/42146091/84846673-abc03380-b025-11ea-993d-ec0f74bfdc15.JPG" alt="home"/></h1>
 
 <h2><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji> Next Level Week #1 - Rocketseat</h2>
 
-<h2><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Projeto</h>
+<h3><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Projeto</h>
 <p>Cadastro de pontos de coletas de resíduos. Ajudar as pessoas a encontrarem os pontos de coleta de forma eficiente.</p>
 
-<h2><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji> Tecnologias Utilizadas</h2>
+<h3><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji> Tecnologias Utilizadas</h2>
 <ul>
     <li>
         <strong><a href="https://nodejs.org/en/" rel="nofollow">Node.js</a></strong>
@@ -26,14 +26,14 @@
     </li>
 </ul>
 
-<h2><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji> Engine</h2>
+<h3><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji> Engine</h2>
 <ul>
     <li>
         <strong><a href="https://nodejs.org/en/" rel="nofollow">Node.js</a></strong>
     </li>
 </ul>
 
-<h2><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji> Extensions</h2>
+<h3><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji> Extensions</h2>
 <ul>
     <li>
         <strong><a href="https://www.npmjs.com/package/sqlite3" rel="nofollow">Sqlite3</a></strong>
@@ -43,14 +43,14 @@
     </li>    
 </ul>
 
-<h2><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji> Framework</h2>
+<h3><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji> Framework</h2>
 <ul>
     <li>
         <strong><a href="https://www.npmjs.com/package/express" rel="nofollow">Express</a></strong>
     </li>    
 </ul>
 
-<h2><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji> Install</h2>
+<h3><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji> Install</h2>
 <p>npm install express</p>
 <p>npm install ts-node -D</p>
 <p>npm install typescript -D</p>
