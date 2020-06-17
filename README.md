@@ -1,6 +1,6 @@
-<img src="/web/src/assets/logo.svg" alt="logo" width="800" height="600" style="display: block; margin: 0 auto" />
+<img src="/web/src/assets/logo.svg" alt="logo" width="200" height="100" style="display: block; margin: 0 auto" />
 
-<p>![Home alt text](https://user-images.githubusercontent.com/42146091/84846673-abc03380-b025-11ea-993d-ec0f74bfdc15.JPG)</p>
+![Home alt text](https://user-images.githubusercontent.com/42146091/84846673-abc03380-b025-11ea-993d-ec0f74bfdc15.JPG)
 
 
 <h2><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji> Next Level Week #1 - Rocketseat</h2>
